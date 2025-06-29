@@ -33,3 +33,18 @@
 
 # Acceptance Criteria.
 - Acceptance Criteria are clear, concise statements that define the specific conditions a product or feature must meet to be accepted by stakeholders, clients, or end users. They are typically written for each requirement or user story during the requirement analysis phase of the Software Development Life Cycle (SDLC).
+
+# Example
+- User must be logged in to proceed.
+- Selected room and dates must be locked during checkout.
+- Total price, including taxes and discounts, is accurately calculated.
+- Multiple payment options are available.
+- Payment is processed securely via payment gateway.
+- On successful payment:
+    - Booking is saved and availability updated.
+    - User receives confirmation and invoice.
+- On payment failure:
+    - Booking is not confirmed.
+    - User receives an error message.
+    - Locked availability is released.
+- Checkout process completes within a reasonable time (e.g., under 10 seconds).
