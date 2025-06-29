@@ -30,3 +30,6 @@
 - Use Case Diagrams are part of UML (Unified Modeling Language) used in requirement analysis to visually represent the interactions between users (actors) and a system. They focus on what the system should do by showing the functional requirements through use cases.
 
 ![alx-booking-uc](https://github.com/user-attachments/assets/0a2fa730-6e34-4d70-ad9a-569b5a19ed14)
+
+# Acceptance Criteria.
+- Acceptance Criteria are clear, concise statements that define the specific conditions a product or feature must meet to be accepted by stakeholders, clients, or end users. They are typically written for each requirement or user story during the requirement analysis phase of the Software Development Life Cycle (SDLC).
