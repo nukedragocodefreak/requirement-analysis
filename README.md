@@ -15,7 +15,6 @@
    - Requirement Documentation
    - Requirement Analysis and Modeling
    - Requirement Validation.
-   - 
 
 # Types of Requirements
 - Functional Requirements Focus on the system’s features and operations.	
@@ -26,3 +25,7 @@
    - Non-Functional Requirements
       - Specify the criteria for system performance and quality.
        - Examples: scalability, reliability, security, usability.
+         
+# Use Case Diagrams.
+- Use Case Diagrams are part of UML (Unified Modeling Language) used in requirement analysis to visually represent the interactions between users (actors) and a system. They focus on what the system should do by showing the functional requirements through use cases.
+
